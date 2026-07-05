@@ -1,54 +1,70 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 🚀 Space Escape Runner
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Space Escape Runner is a 2D endless runner game built using React Native and Expo. The player controls a spaceship, avoids incoming obstacles, and survives as long as possible to achieve the highest score.
 
-## Get started
+## 📱 Features
 
-1. Install dependencies
+- 🚀 Simple and responsive gameplay
+- 🎮 Endless runner mechanics
+- 💯 Real-time score tracking
+- 🏆 High score saved using AsyncStorage
+- 📱 Responsive UI for different screen sizes
+- 🔄 Restart game functionality
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Technologies Used
 
-2. Start the app
+- React Native
+- Expo
+- TypeScript
+- AsyncStorage
 
-   ```bash
-   npx expo start
-   ```
+## ▶️ Installation
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+Clone the repository:
 
 ```bash
-npm run reset-project
+git clone https://github.com/kavithatamilarasan07/SpaceEscapeRunner.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Go to the project folder:
 
-## Learn more
+```bash
+cd SpaceEscapeRunner
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Install dependencies:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+Run the project:
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# SpaceEscapeRunner
->>>>>>> 398cfbb9f35c3adc515454205641dc90b5967733
+Scan the QR code using the Expo Go app on your Android device.
+
+## 📂 Project Structure
+
+```
+SpaceEscapeRunner
+│── app/
+│── assets/
+│── package.json
+│── app.json
+│── eas.json
+```
+
+## 📸 Demo
+
+Screen recording:
+https://drive.google.com/file/d/1njeGULdbTKTTG4g06_rVi9vPxUvV2Sx3/view?usp=sharing
+
+## 👩‍💻 Author
+
+**Kavitha Tamilarasan**
+
+GitHub:
+https://github.com/kavithatamilarasan07
